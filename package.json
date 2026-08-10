@@ -144,7 +144,7 @@
     "console-feed": "^3.8.0",
     "core-js": "^3.6.5",
     "date-fns": "^2.29.1",
-    "dompurify": "^3.0.8",
+    "dompurify": "^3.4.13",
     "fhirpath": "^3.5.0",
     "framer-motion": "^10.16.4",
     "html-react-parser": "^5.1.1",
